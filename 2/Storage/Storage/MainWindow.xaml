@@ -1,0 +1,31 @@
+﻿<Window x:Class="Storage.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Storage"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Menu>
+            <MenuItem Header="Menu">
+                <MenuItem Header="Out all...">
+                    <MenuItem Click="AllInfo_Click" Header="Info" />
+                    <MenuItem Click="AllTypes_Click" Header="Types" />
+                    <MenuItem Click="AllProviders_Click" Header="Providers" />
+                </MenuItem>
+                <MenuItem Header="Out good with...">
+                    <MenuItem Click="MaxCount_Click" Header="Max count" />
+                    <MenuItem Click="MinCount_Click" Header="Min count" />
+                    <MenuItem Click="MaxPrice_Click" Header="Max price" />
+                    <MenuItem Click="MinPrice_Click" Header="Min price" />
+                    <MenuItem Click="GivenCategory_Click" Header="Given category" />
+                    <MenuItem Click="GivenProvider_Click" Header="Given provider" />
+                </MenuItem>
+                <MenuItem Click="TheOldest_Click" Header="The oldest good" />
+                <MenuItem Click="AverageCount_Click" Header="Average count of goods on every category" />
+            </MenuItem>
+        </Menu>
+        <ListBox Name="listbox1" Margin="20"></ListBox>
+    </Grid>
+</Window>

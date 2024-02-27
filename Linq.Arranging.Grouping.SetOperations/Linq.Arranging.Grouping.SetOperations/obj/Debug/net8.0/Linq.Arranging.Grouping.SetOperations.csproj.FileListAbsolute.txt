@@ -1,0 +1,15 @@
+C:\Technologies\С#\ado net\Linq.Arranging.Grouping.SetOperations\Linq.Arranging.Grouping.SetOperations\bin\Debug\net8.0\Linq.Arranging.Grouping.SetOperations.exe
+C:\Technologies\С#\ado net\Linq.Arranging.Grouping.SetOperations\Linq.Arranging.Grouping.SetOperations\bin\Debug\net8.0\Linq.Arranging.Grouping.SetOperations.deps.json
+C:\Technologies\С#\ado net\Linq.Arranging.Grouping.SetOperations\Linq.Arranging.Grouping.SetOperations\bin\Debug\net8.0\Linq.Arranging.Grouping.SetOperations.runtimeconfig.json
+C:\Technologies\С#\ado net\Linq.Arranging.Grouping.SetOperations\Linq.Arranging.Grouping.SetOperations\bin\Debug\net8.0\Linq.Arranging.Grouping.SetOperations.dll
+C:\Technologies\С#\ado net\Linq.Arranging.Grouping.SetOperations\Linq.Arranging.Grouping.SetOperations\bin\Debug\net8.0\Linq.Arranging.Grouping.SetOperations.pdb
+C:\Technologies\С#\ado net\Linq.Arranging.Grouping.SetOperations\Linq.Arranging.Grouping.SetOperations\obj\Debug\net8.0\Linq.Arranging.Grouping.SetOperations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Technologies\С#\ado net\Linq.Arranging.Grouping.SetOperations\Linq.Arranging.Grouping.SetOperations\obj\Debug\net8.0\Linq.Arranging.Grouping.SetOperations.AssemblyInfoInputs.cache
+C:\Technologies\С#\ado net\Linq.Arranging.Grouping.SetOperations\Linq.Arranging.Grouping.SetOperations\obj\Debug\net8.0\Linq.Arranging.Grouping.SetOperations.AssemblyInfo.cs
+C:\Technologies\С#\ado net\Linq.Arranging.Grouping.SetOperations\Linq.Arranging.Grouping.SetOperations\obj\Debug\net8.0\Linq.Arranging.Grouping.SetOperations.csproj.CoreCompileInputs.cache
+C:\Technologies\С#\ado net\Linq.Arranging.Grouping.SetOperations\Linq.Arranging.Grouping.SetOperations\obj\Debug\net8.0\Linq.Arranging.Grouping.SetOperations.sourcelink.json
+C:\Technologies\С#\ado net\Linq.Arranging.Grouping.SetOperations\Linq.Arranging.Grouping.SetOperations\obj\Debug\net8.0\Linq.Arranging.Grouping.SetOperations.dll
+C:\Technologies\С#\ado net\Linq.Arranging.Grouping.SetOperations\Linq.Arranging.Grouping.SetOperations\obj\Debug\net8.0\refint\Linq.Arranging.Grouping.SetOperations.dll
+C:\Technologies\С#\ado net\Linq.Arranging.Grouping.SetOperations\Linq.Arranging.Grouping.SetOperations\obj\Debug\net8.0\Linq.Arranging.Grouping.SetOperations.pdb
+C:\Technologies\С#\ado net\Linq.Arranging.Grouping.SetOperations\Linq.Arranging.Grouping.SetOperations\obj\Debug\net8.0\Linq.Arranging.Grouping.SetOperations.genruntimeconfig.cache
+C:\Technologies\С#\ado net\Linq.Arranging.Grouping.SetOperations\Linq.Arranging.Grouping.SetOperations\obj\Debug\net8.0\ref\Linq.Arranging.Grouping.SetOperations.dll

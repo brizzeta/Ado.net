@@ -1,0 +1,15 @@
+C:\Technologies\С#\ado net\Linq.AggregationMethods\Linq.AggregationMethods\bin\Debug\net8.0\Linq.AggregationMethods.exe
+C:\Technologies\С#\ado net\Linq.AggregationMethods\Linq.AggregationMethods\bin\Debug\net8.0\Linq.AggregationMethods.deps.json
+C:\Technologies\С#\ado net\Linq.AggregationMethods\Linq.AggregationMethods\bin\Debug\net8.0\Linq.AggregationMethods.runtimeconfig.json
+C:\Technologies\С#\ado net\Linq.AggregationMethods\Linq.AggregationMethods\bin\Debug\net8.0\Linq.AggregationMethods.dll
+C:\Technologies\С#\ado net\Linq.AggregationMethods\Linq.AggregationMethods\bin\Debug\net8.0\Linq.AggregationMethods.pdb
+C:\Technologies\С#\ado net\Linq.AggregationMethods\Linq.AggregationMethods\obj\Debug\net8.0\Linq.AggregationMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Technologies\С#\ado net\Linq.AggregationMethods\Linq.AggregationMethods\obj\Debug\net8.0\Linq.AggregationMethods.AssemblyInfoInputs.cache
+C:\Technologies\С#\ado net\Linq.AggregationMethods\Linq.AggregationMethods\obj\Debug\net8.0\Linq.AggregationMethods.AssemblyInfo.cs
+C:\Technologies\С#\ado net\Linq.AggregationMethods\Linq.AggregationMethods\obj\Debug\net8.0\Linq.AggregationMethods.csproj.CoreCompileInputs.cache
+C:\Technologies\С#\ado net\Linq.AggregationMethods\Linq.AggregationMethods\obj\Debug\net8.0\Linq.AggregationMethods.sourcelink.json
+C:\Technologies\С#\ado net\Linq.AggregationMethods\Linq.AggregationMethods\obj\Debug\net8.0\Linq.AggregationMethods.dll
+C:\Technologies\С#\ado net\Linq.AggregationMethods\Linq.AggregationMethods\obj\Debug\net8.0\refint\Linq.AggregationMethods.dll
+C:\Technologies\С#\ado net\Linq.AggregationMethods\Linq.AggregationMethods\obj\Debug\net8.0\Linq.AggregationMethods.pdb
+C:\Technologies\С#\ado net\Linq.AggregationMethods\Linq.AggregationMethods\obj\Debug\net8.0\Linq.AggregationMethods.genruntimeconfig.cache
+C:\Technologies\С#\ado net\Linq.AggregationMethods\Linq.AggregationMethods\obj\Debug\net8.0\ref\Linq.AggregationMethods.dll

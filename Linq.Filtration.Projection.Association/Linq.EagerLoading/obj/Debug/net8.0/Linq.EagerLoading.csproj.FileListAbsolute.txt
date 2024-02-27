@@ -1,0 +1,15 @@
+C:\Technologies\С#\ado net\Linq.Filtration.Projection.Association\Linq.EagerLoading\bin\Debug\net8.0\Linq.EagerLoading.exe
+C:\Technologies\С#\ado net\Linq.Filtration.Projection.Association\Linq.EagerLoading\bin\Debug\net8.0\Linq.EagerLoading.deps.json
+C:\Technologies\С#\ado net\Linq.Filtration.Projection.Association\Linq.EagerLoading\bin\Debug\net8.0\Linq.EagerLoading.runtimeconfig.json
+C:\Technologies\С#\ado net\Linq.Filtration.Projection.Association\Linq.EagerLoading\bin\Debug\net8.0\Linq.EagerLoading.dll
+C:\Technologies\С#\ado net\Linq.Filtration.Projection.Association\Linq.EagerLoading\bin\Debug\net8.0\Linq.EagerLoading.pdb
+C:\Technologies\С#\ado net\Linq.Filtration.Projection.Association\Linq.EagerLoading\obj\Debug\net8.0\Linq.EagerLoading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Technologies\С#\ado net\Linq.Filtration.Projection.Association\Linq.EagerLoading\obj\Debug\net8.0\Linq.EagerLoading.AssemblyInfoInputs.cache
+C:\Technologies\С#\ado net\Linq.Filtration.Projection.Association\Linq.EagerLoading\obj\Debug\net8.0\Linq.EagerLoading.AssemblyInfo.cs
+C:\Technologies\С#\ado net\Linq.Filtration.Projection.Association\Linq.EagerLoading\obj\Debug\net8.0\Linq.EagerLoading.csproj.CoreCompileInputs.cache
+C:\Technologies\С#\ado net\Linq.Filtration.Projection.Association\Linq.EagerLoading\obj\Debug\net8.0\Linq.EagerLoading.sourcelink.json
+C:\Technologies\С#\ado net\Linq.Filtration.Projection.Association\Linq.EagerLoading\obj\Debug\net8.0\Linq.EagerLoading.dll
+C:\Technologies\С#\ado net\Linq.Filtration.Projection.Association\Linq.EagerLoading\obj\Debug\net8.0\refint\Linq.EagerLoading.dll
+C:\Technologies\С#\ado net\Linq.Filtration.Projection.Association\Linq.EagerLoading\obj\Debug\net8.0\Linq.EagerLoading.pdb
+C:\Technologies\С#\ado net\Linq.Filtration.Projection.Association\Linq.EagerLoading\obj\Debug\net8.0\Linq.EagerLoading.genruntimeconfig.cache
+C:\Technologies\С#\ado net\Linq.Filtration.Projection.Association\Linq.EagerLoading\obj\Debug\net8.0\ref\Linq.EagerLoading.dll

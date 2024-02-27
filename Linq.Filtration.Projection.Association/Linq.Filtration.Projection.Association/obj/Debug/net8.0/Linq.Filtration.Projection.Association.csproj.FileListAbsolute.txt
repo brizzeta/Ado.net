@@ -1,0 +1,15 @@
+C:\Technologies\С#\ado net\Linq.Filtration.Projection.Association\Linq.Filtration.Projection.Association\bin\Debug\net8.0\Linq.Filtration.Projection.Association.exe
+C:\Technologies\С#\ado net\Linq.Filtration.Projection.Association\Linq.Filtration.Projection.Association\bin\Debug\net8.0\Linq.Filtration.Projection.Association.deps.json
+C:\Technologies\С#\ado net\Linq.Filtration.Projection.Association\Linq.Filtration.Projection.Association\bin\Debug\net8.0\Linq.Filtration.Projection.Association.runtimeconfig.json
+C:\Technologies\С#\ado net\Linq.Filtration.Projection.Association\Linq.Filtration.Projection.Association\bin\Debug\net8.0\Linq.Filtration.Projection.Association.dll
+C:\Technologies\С#\ado net\Linq.Filtration.Projection.Association\Linq.Filtration.Projection.Association\bin\Debug\net8.0\Linq.Filtration.Projection.Association.pdb
+C:\Technologies\С#\ado net\Linq.Filtration.Projection.Association\Linq.Filtration.Projection.Association\obj\Debug\net8.0\Linq.Filtration.Projection.Association.GeneratedMSBuildEditorConfig.editorconfig
+C:\Technologies\С#\ado net\Linq.Filtration.Projection.Association\Linq.Filtration.Projection.Association\obj\Debug\net8.0\Linq.Filtration.Projection.Association.AssemblyInfoInputs.cache
+C:\Technologies\С#\ado net\Linq.Filtration.Projection.Association\Linq.Filtration.Projection.Association\obj\Debug\net8.0\Linq.Filtration.Projection.Association.AssemblyInfo.cs
+C:\Technologies\С#\ado net\Linq.Filtration.Projection.Association\Linq.Filtration.Projection.Association\obj\Debug\net8.0\Linq.Filtration.Projection.Association.csproj.CoreCompileInputs.cache
+C:\Technologies\С#\ado net\Linq.Filtration.Projection.Association\Linq.Filtration.Projection.Association\obj\Debug\net8.0\Linq.Filtration.Projection.Association.sourcelink.json
+C:\Technologies\С#\ado net\Linq.Filtration.Projection.Association\Linq.Filtration.Projection.Association\obj\Debug\net8.0\Linq.Filtration.Projection.Association.dll
+C:\Technologies\С#\ado net\Linq.Filtration.Projection.Association\Linq.Filtration.Projection.Association\obj\Debug\net8.0\refint\Linq.Filtration.Projection.Association.dll
+C:\Technologies\С#\ado net\Linq.Filtration.Projection.Association\Linq.Filtration.Projection.Association\obj\Debug\net8.0\Linq.Filtration.Projection.Association.pdb
+C:\Technologies\С#\ado net\Linq.Filtration.Projection.Association\Linq.Filtration.Projection.Association\obj\Debug\net8.0\Linq.Filtration.Projection.Association.genruntimeconfig.cache
+C:\Technologies\С#\ado net\Linq.Filtration.Projection.Association\Linq.Filtration.Projection.Association\obj\Debug\net8.0\ref\Linq.Filtration.Projection.Association.dll

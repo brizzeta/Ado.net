@@ -1,0 +1,15 @@
+C:\Technologies\С#\ado net\Linq.LazyLoad\Linq.LazyLoad\bin\Debug\net8.0\Linq.LazyLoad.exe
+C:\Technologies\С#\ado net\Linq.LazyLoad\Linq.LazyLoad\bin\Debug\net8.0\Linq.LazyLoad.deps.json
+C:\Technologies\С#\ado net\Linq.LazyLoad\Linq.LazyLoad\bin\Debug\net8.0\Linq.LazyLoad.runtimeconfig.json
+C:\Technologies\С#\ado net\Linq.LazyLoad\Linq.LazyLoad\bin\Debug\net8.0\Linq.LazyLoad.dll
+C:\Technologies\С#\ado net\Linq.LazyLoad\Linq.LazyLoad\bin\Debug\net8.0\Linq.LazyLoad.pdb
+C:\Technologies\С#\ado net\Linq.LazyLoad\Linq.LazyLoad\obj\Debug\net8.0\Linq.LazyLoad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Technologies\С#\ado net\Linq.LazyLoad\Linq.LazyLoad\obj\Debug\net8.0\Linq.LazyLoad.AssemblyInfoInputs.cache
+C:\Technologies\С#\ado net\Linq.LazyLoad\Linq.LazyLoad\obj\Debug\net8.0\Linq.LazyLoad.AssemblyInfo.cs
+C:\Technologies\С#\ado net\Linq.LazyLoad\Linq.LazyLoad\obj\Debug\net8.0\Linq.LazyLoad.csproj.CoreCompileInputs.cache
+C:\Technologies\С#\ado net\Linq.LazyLoad\Linq.LazyLoad\obj\Debug\net8.0\Linq.LazyLoad.sourcelink.json
+C:\Technologies\С#\ado net\Linq.LazyLoad\Linq.LazyLoad\obj\Debug\net8.0\Linq.LazyLoad.dll
+C:\Technologies\С#\ado net\Linq.LazyLoad\Linq.LazyLoad\obj\Debug\net8.0\refint\Linq.LazyLoad.dll
+C:\Technologies\С#\ado net\Linq.LazyLoad\Linq.LazyLoad\obj\Debug\net8.0\Linq.LazyLoad.pdb
+C:\Technologies\С#\ado net\Linq.LazyLoad\Linq.LazyLoad\obj\Debug\net8.0\Linq.LazyLoad.genruntimeconfig.cache
+C:\Technologies\С#\ado net\Linq.LazyLoad\Linq.LazyLoad\obj\Debug\net8.0\ref\Linq.LazyLoad.dll
